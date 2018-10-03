@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShmouG/FriendFinder.git"
+  },
+  "author": "Sam G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShmouG/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ShmouG/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
